@@ -4,10 +4,9 @@ Welcome to my GitHub profile! I’m currently a second-year IT student, and this
 
 ## 🚀 About Me
 
-- 🌱 I’m currently focusing on improving my web development skills and exploring new technologies.
-- 💬 Feel free to ask me about programming, automation, and software development.
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-- ⚡ Fun fact: I enjoy hiking and photography in my free time!
+- 🌱 I’m currently focusing on improving development skills and exploring new technologies.
+- 💬 Feel free to ask me about anything!
+- 📫 How to reach me: [niko.laaks@gmail.com](mailto:niko.laaks@gmail.com)
 
 ## 📂 GitHub Projects
 

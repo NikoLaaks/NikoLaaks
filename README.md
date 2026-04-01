@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I’m currently a third-year IT student, and this 
 
 ## About Me
 
-- 🌱 I’m currently focusing on improving development skills and exploring new technologies.
-- 💬 Feel free to ask me about anything!
-- 📫 How to reach me: [niko.laaks@gmail.com](mailto:niko.laaks@gmail.com)
+- I’m currently focusing on improving development skills and exploring new technologies.
+- Feel free to ask me about anything!
+- How to reach me: [niko.laaks@gmail.com](mailto:niko.laaks@gmail.com)
 
-## 🛠️ Hobby Projects
+## Hobby Projects
 Here are some personal projects I've worked on:
 - [3D chess browser game](https://github.com/NikoLaaks/3DChess) - 3D chess game built using Three.js for rendering 3D objects, chess.js for move validation, and Stockfish for AI opponent logic.
 - [Personal portfolio](https://github.com/NikoLaaks/Portfolio_final) - personal portfolio showcasing my work as a developer.

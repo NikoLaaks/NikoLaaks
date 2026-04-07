@@ -9,9 +9,9 @@ Welcome to my GitHub profile! I’m currently a third-year IT student, and this 
 - How to reach me: [niko.laaks@gmail.com](mailto:niko.laaks@gmail.com)
 
 ## Projects
-Here you can find my Thesis project_
+### Here you can find my Thesis project:
 - [Thesis Project](https://github.com/NikoLaaks/Thesis) - Simple task and answer management system, where users can create tasks and submit answers.
-Here are some personal projects I've worked on:
+### Here are some personal projects I've worked on:
 - [3D chess browser game](https://github.com/NikoLaaks/3DChess) - 3D chess game built using Three.js for rendering 3D objects, chess.js for move validation, and Stockfish for AI opponent logic.
 - [Personal portfolio](https://github.com/NikoLaaks/Portfolio_final) - personal portfolio showcasing my work as a developer.
 
